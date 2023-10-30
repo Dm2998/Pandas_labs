@@ -13,7 +13,7 @@ else:
 'Dog' is a dog!
 
 ///////////////////////
-#create a function that grabs the email website domain from a string in the from
+#create a function that grabs the email website domain from a string in the from.
 #user@domain 
 # so for example, passing "user@domain.com" would return: domain.com
 

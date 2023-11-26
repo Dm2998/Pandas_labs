@@ -1,5 +1,5 @@
 # Pandas_labs
-Data Analisis Semestre 5 lab 2
+Data Analisis Semestre 5 lab 2, Lab9
 
 def is_dog(word):
     return word.lower() == "dog"

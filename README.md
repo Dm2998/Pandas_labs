@@ -29,7 +29,7 @@ else:
 
 /////////////////////////////////
 
-# Dictionaries
+# Dictionaries.
 d = {'key1':'item1', 'key2':'item2'}
 {'key1':'item1','key2':"item2"}
 {'key1': 'item1', 'key2': 'item2'}
@@ -45,7 +45,7 @@ s = "hi there Sam!"
 word = s.split()
 print(word)
 ['hi', 'there', 'Sam!']
-#given variables 
+#given variables.
 
 
 # Diameter of Earth is 12,742 kilometers

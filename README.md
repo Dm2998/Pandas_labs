@@ -27,7 +27,7 @@ else:
     print("Invalid email format")
 
 
-/////////////////////////////////
+//////////////////////////////////////////////////////
 
 # Dictionaries.
 d = {'key1':'item1', 'key2':'item2'}
@@ -55,7 +55,7 @@ diameter = 12742  # Diameter of Earth in kilometers
 print("Planet:", planet)
 print("Diameter:", diameter, "kilometers")
 Planet: Earth
-Diameter: 12742 kilometers
+Diameter: 12742 kilometers.
 
 
 
